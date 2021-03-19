@@ -12,3 +12,8 @@ Compile the .ino sketch file within the Arduino IDE after installing the Arduboy
 Regards,
 Devin Namaky
 March 18, 2021
+
+This project uses the Arduboy2 for Arcada libraries, which are distributed by Adafruit here: https://learn.adafruit.com/playing-arduboy-games-on-arcada/arduboy-libraries
+
+The Adafruit Arcada libraries are distributed here: https://github.com/adafruit/Adafruit_Arcada
+
