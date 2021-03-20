@@ -1,7 +1,8 @@
 // paddle_Bash by Devin Namaky 2021
 // for Adafruit Pygamer using Adafruit Arcada library, specifically the Arduboy2 for Arcada libraries in order to use the ArduboyTones library for sound
-// sourceCode, readme and copyright info: https://github.com/DrNebin/paddle_Bash
-// (additional copyright info for Arduboy2 and Arcada in readme links)
+// sourceCode, readme and sketch GPL copyright info: https://github.com/DrNebin/paddle_Bash
+// (If you received this sketch as part of a Github library fork distribution, then additional library attribution and copyright info for Arduboy2/Tones and Arcada as per the included fork readme.)
+// This sketch is intended to show how to use Arcada to write a simple pong-like game on the pygamer, including the use of ArduboyTones for sound. The sketch is good for a beginner because it is short,  keeps all the code in one file to see, helps learn a basic game loop, a switch case for game states, and the use of structs for data.
 
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
