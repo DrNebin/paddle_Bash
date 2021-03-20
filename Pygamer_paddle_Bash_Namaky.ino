@@ -1,6 +1,7 @@
 // paddle_Bash by Devin Namaky 2021
 // for Adafruit Pygamer using Adafruit Arcada library, specifically the Arduboy2 for Arcada libraries in order to use the ArduboyTones library for sound
-// sourceCode, readme and copyright info available on my Github: https://github.com/DrNebin/paddle_Bash
+// sourceCode, readme and copyright info: https://github.com/DrNebin/paddle_Bash
+// (additional copyright info for Arduboy2 and Arcada in readme links)
 
 #include <Arduboy2.h>
 #include <ArduboyTones.h>
